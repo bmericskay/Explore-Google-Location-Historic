@@ -60,7 +60,7 @@ Voilà un joli **jeux de données bien structuré** !
 
 
 
-## 3. Explorer ses données de localisation nGoogle dans une carte en ligne
+## 3. Explorer ses données de localisation Google dans une carte en ligne
 
 Pour explorer en détail votre historique de positions Google vous pouvez utiliser le site **https://kepler.gl/demo**.
 
