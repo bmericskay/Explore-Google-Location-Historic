@@ -8,17 +8,21 @@
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/1.PNG)
 
 * Passer à l'étape suivante
+ <br/>;
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/2.PNG)
 
 * Exporter le ficher avec vos données (par mail par exemple)
+ <br/>;
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/3.PNG)
 
 
 * Télécharger le  ficher avec vos données puis le décompresser
+ <br/>;
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/4.PNG)
 
 
 * Trouver dans le dossier le ficher Records.json (qui contien tout votre historique de position)
+ <br/>;
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/5.PNG)
 
 
