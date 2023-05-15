@@ -58,3 +58,12 @@ Voilà un joli **jeux de données bien structuré** !
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/Dataframe.PNG)
 
 ## 3. Explorer ses données de localisation nGoogle dans une carte en ligne
+
+Pour explorer en détail votre historique de positions Google vous pouvez utiliser le site https://kepler.gl/demo.
+
+Ce site présente plusieurs avantages comme géolocaliser directement le csv, possibilité de visualiser à plusieurs échelle, affichage de fond de carte satellite et surtout les données restent stockées sur votre ordinateur !
+
+Bonne exploration !
+
+![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/Explorer.PNG)
+
