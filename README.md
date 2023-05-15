@@ -30,6 +30,8 @@
 ## Etape2. Préparer les données
 
 Le format proposé par Google est le JSON qui n'est pas très pratique pour explorer des données spatiales, de plus les coordonnées géographiques ne sont pas utilisables.
+<br/>
+
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/JSON.PNG)
 
 
@@ -55,7 +57,7 @@ Historiquedepositions <- locations %>% select(timestamp, dispositif = deviceTag,
 write.csv(Historiquedepositions, 'google.csv')
 ```
 
-Voilà un joli jeux de données bien strcuturé !
+Voilà un joli **jeux de données bien structuré** !
 
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/Dataframe.PNG)
 
