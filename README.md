@@ -29,6 +29,10 @@
 
 ## Etape2. Préparer les données
 
+Le format proposé par Google est le JSON qui n'est pas très pratique pour explorer des données spatiales, de plus les coordonnées géographiques ne sont pas utilisables.
+![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/JSON.PNG)
+
+
 Ce petit **script R** permet de préparer la données brutes (json) en donnée utilisable (csv)
 
 ```{r}
@@ -50,10 +54,9 @@ locations$lon = locations$longitudeE7 / 1e7
 Historiquedepositions <- locations %>% select(timestamp, dispositif = deviceTag, source, lat,lon)
 write.csv(Historiquedepositions, 'google.csv')
 ```
-L'objectif est de ransformer le JSON
-![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/JSON.PNG)
 
-en CSV
+Voilà un joli jeux de données bien strcuturé !
+
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/Dataframe.PNG)
 
 ## 3. Explorer ses données de localisation nGoogle dans une carte en ligne
