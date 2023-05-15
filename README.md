@@ -19,19 +19,19 @@
 <br> ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/4.PNG)
 
 
-* **Trouver dans le dossier le ficher Records.json** (qui contien tout votre historique de position)
+* **Dans le dossier, trouver le ficher Records.json** (qui contient tout votre historique de position)
 <br> <br> ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/5.PNG)
 
 <br> <br>
 ## Etape2. Préparer les données
 
-Le format proposé par Google est le JSON qui n'est pas très pratique pour explorer des données spatiales, de plus les coordonnées géographiques ne sont pas utilisables.
+Le fichier fourni par Google qui centralise vos données est dans le format JSON qui n'est pas très pratique pour explorer des données spatiales, de plus les coordonnées géographiques qui y sont renseignées ne sont pas utilisables.
 <br/>
 
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/JSON.PNG)
 
 
-Ce petit **script R** permet de préparer la données brutes (json) en donnée utilisable (csv)
+Ce petit **script R** permet de préparer le fichier de données brutes (JSON) pour le transformer en jeu de données utilisable (csv)
 
 ```{r}
 #Package nécessaire
