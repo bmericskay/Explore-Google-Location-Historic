@@ -1,4 +1,4 @@
-# GeoDataGoogle
+# Explorer son historique de positions Google
 
 ## Etape1. Récupérer son historique de position
 
