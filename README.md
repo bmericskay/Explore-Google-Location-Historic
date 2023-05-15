@@ -2,7 +2,7 @@
 
 ## Récupérer son historique de position
 
-![alt text]([http://url/to/img.png](https://github.com/bmericskay/GeoDataGoogle/blob/main/1.PNG))
+![alt text]([http://url/to/img.png](https://github.com/bmericskay/GeoDataGoogle/blob/main/1.PNG)
 
 
 ## Préparer les données
