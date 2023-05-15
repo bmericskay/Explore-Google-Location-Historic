@@ -1,6 +1,6 @@
 # Explorer son historique de positions Google
 
-## Etape1. Récupérer son historique de position
+## Etape1. Récupérer son historique de position Google
 
 * Se rendre sur le site **https://takeout.google.com/settings/takeout**
 
