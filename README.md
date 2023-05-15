@@ -8,27 +8,27 @@
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/1.PNG)
 
 * **Passer à l'étape suivante**
- <br/>;
+ <br/> <br/>
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/2.PNG)
 
 * **Exporter le ficher avec vos données** (par mail par exemple)
- <br/>;
+ <br/>
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/3.PNG)
 
 
 * **Télécharger le  ficher avec vos données puis le décompresser**
- <br/>;
+ <br/>
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/4.PNG)
 
 
 * **Trouver dans le dossier le ficher Records.json** (qui contien tout votre historique de position)
- <br/>;
+ <br/>
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/5.PNG)
 
 
 ## Etape2. Préparer les données
 
-Ce petit script R permet de préparer la données brutes (json) en donnée utilisable (csv)
+Ce petit **script R** permet de préparer la données brutes (json) en donnée utilisable (csv)
 
 ```{r}
 #Package nécessaire
