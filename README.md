@@ -8,7 +8,8 @@
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/1.PNG)
 
 * **Passer à l'étape suivante**
- <br/> <br/>
+ <br/> 
+ <br/>
 ![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/2.PNG)
 
 * **Exporter le ficher avec vos données** (par mail par exemple)
@@ -49,6 +50,10 @@ locations$lon = locations$longitudeE7 / 1e7
 Historiquedepositions <- locations %>% select(timestamp, dispositif = deviceTag, source, lat,lon)
 write.csv(Historiquedepositions, 'google.csv')
 ```
+L'objectif est de ransformer le JSON
+![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/JSON.PNG)
 
+en CSV
+![alt text](https://raw.githubusercontent.com/bmericskay/GeoDataGoogle/main/Dataframe.PNG)
 
 ## 3. Explorer ses données de localisation nGoogle dans une carte en ligne
