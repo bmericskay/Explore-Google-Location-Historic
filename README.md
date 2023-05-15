@@ -2,6 +2,8 @@
 
 ## Récupérer son historique de position
 
+![alt text]([http://url/to/img.png](https://github.com/bmericskay/GeoDataGoogle/blob/main/1.PNG))
+
 ## Préparer les données
 
 Ce petit script R permet de préparer la données brutes (json) en donnée utilisable (csv)
