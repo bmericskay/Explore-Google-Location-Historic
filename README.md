@@ -36,7 +36,7 @@ Ce petit **script R** permet de préparer le fichier de données brutes (JSON) p
 ```{r}
 #Package nécessaire
 install.packages("jsonlite")
-install.packages("tityverse")
+install.packages("tidyverse")
 
 library(jsonlite)
 library(tidyverse)
